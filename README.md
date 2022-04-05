@@ -1,5 +1,8 @@
 # gRPC-Assignment
 
+# Overview of the services:
+
+A user service that takes  a username as an input and the service will try to retrieve the user details (User ID, Username, Name, Age, and Gender).
 # Steps to Build User Service
 1) create a gRPC project with maven and add all necessary dependencies
 2) Define a user.proto and generate stubs
