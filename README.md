@@ -15,3 +15,8 @@ A user service that takes  a username as an input and the service will try to re
 1) H2 database
 2) Tables used- User: contains user details
 3) Initialize.sql file will create tables and prepare all data
+
+
+Ref: https://www.linkedin.com/learning/building-java-microservices-with-grpc
+https://dzone.com/articles/building-microservices-with-grpc-and-java
+https://medium.com/geekculture/how-to-create-grpc-microservices-with-jpa-b3e804b4d91e
